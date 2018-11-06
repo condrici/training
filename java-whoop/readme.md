@@ -1,3 +1,2 @@
-Java
-- Applet (runs on the client)
-- Servlet (runs on the server)
+## Java Whoop
+Looking into Java and trying to get a hold of it, while noticing structure similarities with PHP.
