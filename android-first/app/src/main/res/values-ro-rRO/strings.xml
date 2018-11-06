@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android First</string>
+    <string name="app_button">INTRA</string>
+    <string name="app_username">Nume utilizator</string>
+    <string name="app_password">Parola</string>
+    <string name="app_greeting">Salut!</string>
+</resources>
