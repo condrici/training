@@ -10,7 +10,7 @@
 * app/manifests/AndroidManifest.xml (components, permissions, compatibility, file conventions, values)
 * app/java/<app id>/classes
 * app/res/...
-* gradle/ (JVM based build system)
+* gradle (JVM based build system)
   
 ## Permissions
 
